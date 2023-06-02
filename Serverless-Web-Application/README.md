@@ -18,6 +18,13 @@ This is a serverless web application deployed on AWS using Amplify, Lambda, API 
 ![Screenshot (199)](https://github.com/satyamws/AWS-Projects/assets/26667834/a7cd2114-c8ef-4bb2-920d-3db700e7f784)
 
 ## Technologies
+- AWS Amplify
+- AWS Lambda
+- AWS API Gateway
+- AWS DynamoDB
+- AWS IAM
+
+## Prerequisites
 
 Before deploying the application, ensure you have the following prerequisites:
 - An AWS account with appropriate permissions to create and manage AWS resources.
