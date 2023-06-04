@@ -19,6 +19,8 @@ To get started with this infrastructure-as-code solution, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-repo/infrastructure-as-code.git`
 2. Review the CloudFormation template files located in the `templates/` directory to understand the infrastructure components defined.
 
+![Screenshot (203)](https://github.com/satyamws/AWS-Projects/assets/26667834/a7b342f8-1c5e-470f-8de3-0ce6110ea85c)
+
 ## Deployment
 
 To deploy the infrastructure using CloudFormation through the AWS Management Console, execute the following steps:
