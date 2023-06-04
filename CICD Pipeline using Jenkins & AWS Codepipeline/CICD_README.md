@@ -37,6 +37,8 @@ To set up and utilize the CI/CD pipeline, ensure you have the following prerequi
 - Access to the AWS Management Console.
 - Jenkins installed and configured on your local machine or a server.
 
+![Screenshot (204)](https://github.com/satyamws/AWS-Projects/assets/26667834/b44bdb5d-2706-4454-acff-f27d4e4ac768)
+
 ## Setup
 
 Follow these steps to set up the CI/CD pipeline:
