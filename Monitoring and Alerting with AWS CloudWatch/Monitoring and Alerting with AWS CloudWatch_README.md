@@ -9,8 +9,6 @@ This repository demonstrates the configuration of monitoring and alerting using 
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
