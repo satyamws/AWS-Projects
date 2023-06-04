@@ -37,7 +37,7 @@ To configure monitoring and alerting using AWS CloudWatch, ensure you have the f
 - An AWS account with appropriate permissions to create and manage CloudWatch resources.
 - Access to the AWS Management Console.
 
-![introduction-to-aws-cloudwatch-alarms](https://github.com/satyamws/AWS-Projects/assets/26667834/ed34a896-854a-4996-b9aa-7c551ce0fe40)
+![introduction-to-aws-cloudwatch-alarms](https://github.com/satyamws/AWS-Projects/assets/26667834/4dfe2503-5bcb-4e21-96a9-8aaa7343d11b)
 
 ## Setup
 
