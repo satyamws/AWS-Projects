@@ -9,8 +9,6 @@ This repository demonstrates the implementation of a CI/CD pipeline using Jenkin
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
